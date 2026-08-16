@@ -1,0 +1,23 @@
+air.gidd.tv
+# --- OpenAI 第一方 ---
+chat.openai.com.cdn.cloudflare.net
+openai-api.arkoselabs.com
+client-api.arkoselabs.com
+openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+openaicomproductionae4b.blob.core.windows.net
+production-openaicom-storage.azureedge.net
+openaiapi-site.azureedge.net
+openaicom.imgix.net
+observeit.net
+ai.com
+# --- Claude / Anthropic 第一方 ---
+cdn.usefathom.com
+# --- Gemini / Google AI 第一方 ---
+ai.google.dev
+makersuite.google.com
+alkalimakersuite-pa.clients6.google.com
+generativeai.google
+proactivebackend-pa.googleapis.com
+gemini.google.com
+bard.google.com
+deepmind.google
