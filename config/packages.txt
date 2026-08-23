@@ -11,6 +11,7 @@ sed
 coreutils-sort
 luci-app-ssr-plus
 xray-core
+luci-app-openclash
 luci-app-frpc
 luci-app-store
 docker
@@ -31,7 +32,6 @@ kmod-fs-vfat
 
 # Remove overlapping services and risky automatic upgrade/partition helpers
 -luci-app-passwall
--luci-app-openclash
 -luci-app-gpsysupgrade
 -luci-app-partexp
 -luci-app-wifihistory
