@@ -1,5 +1,5 @@
 # name url Packages.gz-sha256
-kwrt_core https://dl.openwrt.ai/releases/25.12/targets/qualcommax/ipq60xx/6.12.94 705e709ffd3ceb626b0c4fff0409059eaa83554ca0f7d38e0f7fa3e756701415
+kwrt_core https://dl.openwrt.ai/releases/25.12/targets/qualcommax/ipq60xx/6.12.112 293c0a6f573b752fbb9f1cf791f1a96b7a646e63528e62298ecb83474596fb42
 kwrt_base https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/base aca5382cd716c0f60319f834babd007af0ed411fede85e4e2de07126d17e444c
 kwrt_packages https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/packages 67d330fe7c6057471bebba7d967d88f31dcf4e506c4c47f14e59822178a6ebf2
 kwrt_luci https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/luci b8810c45fa017590ae7daaea38222846653cfb04314f10cd9242a9bfb8487f70
