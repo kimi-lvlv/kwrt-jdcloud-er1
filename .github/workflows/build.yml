@@ -104,7 +104,6 @@ jobs:
 
           for package in \
               luci-theme-aurora \
-              luci-theme-argon \
               luci-app-adblock-fast \
             gawk grep sed coreutils-sort luci-app-ssr-plus xray-core \
             luci-app-openclash \
