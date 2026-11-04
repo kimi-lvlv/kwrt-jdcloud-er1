@@ -1,8 +1,9 @@
 # name url Packages.gz-sha256
 kwrt_core https://dl.openwrt.ai/releases/25.12/targets/qualcommax/ipq60xx/6.12.94 705e709ffd3ceb626b0c4fff0409059eaa83554ca0f7d38e0f7fa3e756701415
-kwrt_base https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/base 8b0d2c510b9dd69aaa622dd7492af984bc984228f2b3471a2ad6c3ad4b132762
-kwrt_packages https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/packages 30fc92db9ec83f1b8a3e92080a0733b690a77184bd46ee9a01b938b1e088238b
-kwrt_luci https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/luci 867d2a06882c34724f86e5acf92dbce68f56b5bc09a4cd8e39b0c3d78fac8144
-kwrt_routing https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/routing 73488bc0a9d0b39f84e1a5418532eeb4fa4e3bc76e14d2ee6869c5a4a6a298cb
-kwrt_video https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/video f1a7f4993c99f67b3e9361a5d2f5f236dd34a221f0c58798b38ca1e89dde503f
-kwrt_kiddin9 https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/kiddin9 1933bdc2371f27fed99ca51a23c868550fab6f507d0b1eb9ae2677c2b2afeb92
+kwrt_base https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/base aca5382cd716c0f60319f834babd007af0ed411fede85e4e2de07126d17e444c
+kwrt_packages https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/packages 67d330fe7c6057471bebba7d967d88f31dcf4e506c4c47f14e59822178a6ebf2
+kwrt_luci https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/luci b8810c45fa017590ae7daaea38222846653cfb04314f10cd9242a9bfb8487f70
+kwrt_routing https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/routing 966223161f97d7f8e812779ac90ccf3a7536ea144615731d9376495d12b1459b
+kwrt_video https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/video 44fc3d66e7b2ccd303aecdb2b406f117acab4468da87b94779bb0c509a760a59
+kwrt_kiddin9 https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/kiddin9 7cb15d43f4c03d6ace5822ecd0cc819ee3d97691cacafc66bcaa22ea3a2bcd40
+
