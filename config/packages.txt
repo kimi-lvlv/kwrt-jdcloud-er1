@@ -43,3 +43,17 @@ kmod-fs-vfat
 -kmod-qca-nss-drv-netlink
 -kmod-qca-nss-drv-pppoe
 -kmod-qca-nss-ecm
+# NFQUEUE support for valx traffic capture (val-capture replication)
+kmod-ipt-nfqueue
+kmod-nfnetlink-queue
+iptables-mod-nfqueue
+
+# tc / traffic control (traffic mirroring fallback)
+kmod-sched-core
+kmod-sched-prio
+kmod-ifb
+tc-tiny
+
+# debug / verify tools
+tcpdump-mini
+conntrack-tools
