@@ -6,4 +6,3 @@ kwrt_luci https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/luci 
 kwrt_routing https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/routing 966223161f97d7f8e812779ac90ccf3a7536ea144615731d9376495d12b1459b
 kwrt_video https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/video 44fc3d66e7b2ccd303aecdb2b406f117acab4468da87b94779bb0c509a760a59
 kwrt_kiddin9 https://dl.openwrt.ai/releases/25.12/packages/aarch64_cortex-a53/kiddin9 7cb15d43f4c03d6ace5822ecd0cc819ee3d97691cacafc66bcaa22ea3a2bcd40
-
