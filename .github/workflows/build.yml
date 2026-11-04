@@ -103,9 +103,9 @@ jobs:
           [[ ${#manifest[@]} -eq 1 ]] || { echo "Expected one package manifest" >&2; exit 1; }
 
           for package in \
-            luci-theme-aurora luci-app-aurora-config \
-            luci-i18n-aurora-config-zh-cn luci-theme-argon \
-            luci-app-argon-config luci-app-adblock-fast \
+              luci-theme-aurora \
+              luci-theme-argon \
+              luci-app-adblock-fast \
             gawk grep sed coreutils-sort luci-app-ssr-plus xray-core \
             luci-app-openclash \
             luci-app-frpc frpc luci-app-store \
