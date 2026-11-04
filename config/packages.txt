@@ -1,7 +1,5 @@
 # User-facing features
 luci-theme-aurora
-luci-app-aurora-config
-luci-i18n-aurora-config-zh-cn
 luci-app-adblock-fast
 gawk
 grep
