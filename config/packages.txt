@@ -2,8 +2,6 @@
 luci-theme-aurora
 luci-app-aurora-config
 luci-i18n-aurora-config-zh-cn
-luci-theme-argon
-luci-app-argon-config
 luci-app-adblock-fast
 gawk
 grep
